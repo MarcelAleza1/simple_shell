@@ -31,3 +31,4 @@ struct cmds
 	struct cmd *commands[];
 };
 
+char *take_input();
